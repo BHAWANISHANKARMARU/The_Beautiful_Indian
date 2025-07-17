@@ -1,0 +1,142 @@
+[
+  {
+    "id": "m1",
+    "name": "Dahi Vada",
+    "price": "60",
+    "description": "Soft lentil dumplings soaked in curd, topped with chutneys and spices.",
+    "image": "images/DahiVada.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Punjabi Paratha",
+    "price": "80",
+    "description": "Flaky stuffed paratha served hot with butter and pickle.",
+    "image": "images/PunjabiParatha.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Masala Dosa",
+    "price": "90",
+    "description": "Crispy South Indian dosa stuffed with spicy potato filling, served with chutney & sambar.",
+    "image": "images/MasalaDosa.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Pakode",
+    "price": "50",
+    "description": "Crispy fritters made from gram flour and spices, perfect for tea-time.",
+    "image": "images/Pakode.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Pyaaz Kachori",
+    "price": "40",
+    "description": "Deep-fried pastry stuffed with spicy onion filling, a famous Rajasthani snack.",
+    "image": "images/PyaazKachori.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Kachori",
+    "price": "35",
+    "description": "Fried flaky snack stuffed with spiced lentil filling, served with chutney.",
+    "image": "images/Kachori.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Samosa",
+    "price": "20",
+    "description": "Popular Indian snack with potato and peas stuffing, deep-fried till crispy.",
+    "image": "images/Samosa.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Ker Sangari",
+    "price": "120",
+    "description": "Traditional Rajasthani dish made with dried ker berries and sangri beans cooked with spices.",
+    "image": "images/kerSangari.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Ghevar",
+    "price": "150",
+    "description": "Traditional Rajasthani sweet soaked in sugar syrup, often enjoyed during festivals.",
+    "image": "images/ghevar.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Rajasthani Thali",
+    "price": "250",
+    "description": "Grand platter with multiple Rajasthani dishes including dal, bati, churma and more.",
+    "image": "images/RajasthaniThali.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "Special Thali",
+    "price": "300",
+    "description": "Assorted thali offering a variety of dishes, perfect for a hearty meal.",
+    "image": "images/SpecialThali.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Gulab Jamun",
+    "price": "50",
+    "description": "Soft and juicy milk-based sweet dumplings soaked in flavored sugar syrup.",
+    "image": "images/gulabJamun.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Idli Sambhar",
+    "price": "70",
+    "description": "Steamed rice cakes served with piping hot sambar and coconut chutney.",
+    "image": "images/IdliSambhar.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Mirchi Bada",
+    "price": "40",
+    "description": "Spicy green chilies stuffed and coated in gram flour batter, deep-fried till crispy.",
+    "image": "images/MirchiBada.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Pulav",
+    "price": "90",
+    "description": "Aromatic rice dish cooked with spices and vegetables, often served with raita.",
+    "image": "images/Pulaw.jpg"
+  },
+  {
+    "id": "m16",
+    "name": "Gatta Masala",
+    "price": "130",
+    "description": "Rajasthani specialty of gram flour dumplings cooked in spicy curd gravy.",
+    "image": "images/GattaMasala.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Palak Paneer",
+    "price": "140",
+    "description": "Cubes of paneer cooked in a rich spinach-based gravy, served with roti or rice.",
+    "image": "images/PalakPaneer.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Pasta",
+    "price": "150",
+    "description": "Creamy or spicy pasta loaded with vegetables, cheese, and herbs.",
+    "image": "images/Pasta.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Dum Aloo",
+    "price": "110",
+    "description": "Baby potatoes cooked slowly in a rich, spicy tomato-based gravy.",
+    "image": "images/DamAllo.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Paneer Masala",
+    "price": "160",
+    "description": "Rich and creamy tomato-based gravy with soft cubes of paneer, served with naan or rice.",
+    "image": "images/PaneerMasala.jpg"
+  }
+]
