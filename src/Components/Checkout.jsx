@@ -31,9 +31,10 @@ export default function Checkout() {
 
         const fd = new FormData(event.target);
         const customerData = Object.fromEntries(fd.entries());
+       
 
         try {
-            const response = await fetch('http://localhost:3000/orders', {
+            const response = await fetch('https://the-beautiful-indian.onrender.com/orders', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'

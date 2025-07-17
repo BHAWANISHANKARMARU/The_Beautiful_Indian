@@ -11,7 +11,7 @@ export default function Meals() {
             setIsLoading(true);
             setError(null);
             try {
-                const result = await fetch('http://localhost:3000/meals');
+                const result = await fetch('https://the-beautiful-indian.onrender.com/meals');
 
                 if (!result.ok) {
                     throw new Error('Failed to fetch meals. Please try again later.');
