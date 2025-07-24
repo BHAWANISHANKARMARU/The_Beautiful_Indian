@@ -28,7 +28,23 @@ export default function Meals() {
     }, []);
 
     if (isLoading) {
-        return <p style={{ color: 'blue' }}>Loading meals...</p>;
+        return (
+  <p
+    style={{
+      background: "linear-gradient(90deg, #4facfe, #00f2fe)",
+      WebkitBackgroundClip: "text",
+      WebkitTextFillColor: "transparent",
+      fontSize: "1.2rem",
+      fontWeight: "600",
+      textAlign: "center",
+      padding: "2rem",
+      fontFamily: "'Poppins', sans-serif"
+    }}
+  >
+    Data is being loaded from the server. This may take a few seconds...
+  </p>
+);
+
     }
 
     if (error) {
