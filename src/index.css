@@ -393,3 +393,11 @@ h1 {
   padding: 0.5rem 1rem;
   cursor: pointer;
 }
+@keyframes fadeIn {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
